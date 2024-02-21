@@ -1,2 +1,8 @@
-*.ipynb
-.ipynb_checkpoints/
+Fake News Detection Project/*.ipynb
+Fake News Detection Project/.ipynb_checkpoints/
+Housing Prices Prediction Project/*.ipynb
+Housing Prices Prediction Project/.ipynb-checkpoints/
+Iris Flowers Classification Project/*.ipynb
+Iris Flowers Classification Project/.ipynb_checkpoints/
+Loan Prediction using Machine Learning/*.ipynb
+Loan Prediction using Machine Learning/.ipynb_checkpoints/
